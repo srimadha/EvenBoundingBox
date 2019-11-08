@@ -17,6 +17,9 @@ public class App {
 
             BoundingBox box = new BoundingBox();
             List<Pair> pairs = box.getDisjointLargeBoundingBoxes( inputLines ); //Finds the largest disjointedboxes
+            if( pairs.size() == 0){
+                System.exit( -1);
+            }
             pairs.stream().forEach(pair -> System.out.println(pair));
 
         } catch ( InvalidInputFormatException iex ){ //Exceptions if there are any stdin invalid inputs

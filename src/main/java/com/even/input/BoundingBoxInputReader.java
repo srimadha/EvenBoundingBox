@@ -25,7 +25,7 @@ public class BoundingBoxInputReader {
         ArrayList<String> inputLines = new ArrayList<>();
         String inputLine = reader.readLine();
         int length = inputLine.length();
-        while( inputLine.length() != 0  ){
+        while( inputLine!=null && inputLine.length() != 0  ){
             if( regexMatcher( inputLine )) {
                 if (length != inputLine.length()) {
                     throw new InvalidInputFormatException( InvalidInputFormatException.INVALID_LENGTH);

@@ -58,6 +58,7 @@ public class BoundingBox {
     }
 
     private boolean isOverLapping( Pair a, Pair b){
+
         if (a.getTopLeft().getX() > b.getBotRight().getX() || b.getTopLeft().getX() > a.getBotRight().getX()) {
             return false;
         }
