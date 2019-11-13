@@ -1,0 +1,26 @@
+1. Loans
+    /leads /ratetables
+2. Savings
+
+3. Credit Cards
+
+4. Mortgages
+
+
+Partners
+1. Pre Approval API
+2. Real-time Pricing
+3. Embeddable widgets and contents
+4. ML Optimization
+
+Financial Institutions
+1. Programmatic compliance
+2. Price optimization and Risk mitigation
+
+1. 50M -> Strategic investments ( how are we doing with the investments, cash burn )
+2. Partner, FinInstitution ( )
+3. Mortgages, Insurance are next areas to explore is there anything else.
+4. Planning to expand to other markets, europe, India ?
+5. Whats the tech stack how do onboard new parnters and financial instituions
+6. What data analysis platforms we use here. 
+7. Learning opportunities
