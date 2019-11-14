@@ -24,3 +24,14 @@ Financial Institutions
 5. Whats the tech stack how do onboard new parnters and financial instituions
 6. What data analysis platforms we use here. 
 7. Learning opportunities
+
+
+System Design
+1, Understanding goals
+2, Establish the scope ( agree on features )
+3, Design for the right scale
+4, Start high level, then drill down
+5, DSA
+6, Tradeoffs
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
